@@ -1,6 +1,3 @@
----
----
-
 # Music
 options space=20
 tabstave notation=true tablature=false time=4/4
